@@ -1,34 +1,57 @@
 body {
-  background-color: #fff2e6;
+  background-image: url("../img/doorcopy.jpg");
+  background-size: 35% 100%;
+  background-repeat: no-repeat;
+  background-color: #E7E7DB;
   font-family: "STKaiti";
 }
 
+a:link {
+  color:#ff6600;
+}
+
+a:visited {
+  color:#ff6600;
+}
+
+a:hover {
+  color:hotpink;
+}
+
+a:active {
+  color:#ff6600;
+}
+
+.special {
+  color:red;
+}
+
 .headname {
-font-size: 45px;
-line-height: 170px;
-font-family: "Zapfino";
+  font-size: 45px;
+  line-height: 170px;
+  font-family: "Zapfino";
 }
 
 .headwords {
-font-family: "Zapfino";
-text-align: right;
-height: 85px;
-line-height: 130px;
+  font-family: "Zapfino";
+  text-align: right;
+  height: 85px;
+  line-height: 130px;
 }
 
 .barheader {
-font-family: "Zapfino";
-font-size: 25px;
-line-height: 45px;
+  font-family: "Zapfino";
+  font-size: 25px;
+  line-height: 45px;
 }
 
-.sidebarwords {
-
+.section {
+  border: 1px solid gray;
+  padding: 5px;
+  margin: 5px;
+  box-shadow: 3px 3px 3px #888888;
 }
 
-.mainbarwords {
-
-}
 
 .footerspace {
   font-family: "Zapfino";
