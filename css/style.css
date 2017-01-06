@@ -4,12 +4,14 @@ body {
   background-repeat: no-repeat;
   background-color: #E7E7DB;
   font-family: "STKaiti";
+
 }
 strong {
   color:red;
 }
 img {
-  float:right;
+  float:left;
+  max-width: 90%;
 }
 a:link {
   color:#ff6600;
@@ -46,12 +48,18 @@ a:active {
   font-size: 25px;
   line-height: 45px;
   margin-bottom: 30px;
+  padding: 10px;
 }
 .section {
   border: 1px solid gray;
-  padding: 5px;
+  padding: 10px;
   margin: 5px;
   box-shadow: 3px 3px 3px #888888;
+  }
+.col-md-2{
+  -webkit-column-break-inside: avoid;
+  page-break-inside: avoid;
+  break-inside:avoid:
 }
 .footerspace {
   font-family: "Zapfino";

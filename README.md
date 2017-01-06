@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a set of one or more html pages showing Charles Peden's portfolio, basic html and CSS skills_
+_This is a set of one or more html pages showing Charles Peden's portfolio, basic html and CSS skills.  Said page includes a self representation as radiant doorknob._
 
 ## Setup/Installation Requirements
 
@@ -15,7 +15,7 @@ _This is a set of one or more html pages showing Charles Peden's portfolio, basi
 
 ## Known Bugs
 
-_none yet known_
+_the image columns break poorly when transitioning between small and larger browser sizes_
 
 ## Support and contact details
 
