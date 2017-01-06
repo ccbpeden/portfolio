@@ -6,6 +6,10 @@ body {
   font-family: "STKaiti";
 }
 
+strong {
+  color:red;
+}
+
 a:link {
   color:#ff6600;
 }
