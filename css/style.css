@@ -5,60 +5,57 @@ body {
   background-color: #E7E7DB;
   font-family: "STKaiti";
 }
-
 strong {
   color:red;
 }
-
+img {
+  float:right;
+}
 a:link {
   color:#ff6600;
 }
-
 a:visited {
   color:#ff6600;
 }
-
 a:hover {
   color:hotpink;
 }
-
 a:active {
   color:#ff6600;
 }
-
 .special {
   color:red;
 }
-
 .headname {
   font-size: 45px;
-  line-height: 170px;
+  line-height: 110px;
   font-family: "Zapfino";
+  margin-top: 40px;
+  margin-bottom: 10px;
 }
-
 .headwords {
   font-family: "Zapfino";
   text-align: right;
   height: 85px;
-  line-height: 130px;
+  line-height: 110px;
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
-
 .barheader {
   font-family: "Zapfino";
   font-size: 25px;
   line-height: 45px;
+  margin-bottom: 30px;
 }
-
 .section {
   border: 1px solid gray;
   padding: 5px;
   margin: 5px;
   box-shadow: 3px 3px 3px #888888;
 }
-
-
 .footerspace {
   font-family: "Zapfino";
   text-align: center;
   line-height: 45px;
+  margin-top: 20px;
 }
