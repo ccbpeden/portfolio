@@ -1,0 +1,37 @@
+body {
+  background-color: #fff2e6;
+  font-family: "STKaiti";
+}
+
+.headname {
+font-size: 45px;
+line-height: 170px;
+font-family: "Zapfino";
+}
+
+.headwords {
+font-family: "Zapfino";
+text-align: right;
+height: 85px;
+line-height: 130px;
+}
+
+.barheader {
+font-family: "Zapfino";
+font-size: 25px;
+line-height: 45px;
+}
+
+.sidebarwords {
+
+}
+
+.mainbarwords {
+
+}
+
+.footerspace {
+  font-family: "Zapfino";
+  text-align: center;
+  line-height: 45px;
+}
