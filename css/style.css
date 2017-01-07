@@ -56,10 +56,10 @@ a:active {
   margin: 5px;
   box-shadow: 3px 3px 3px #888888;
   }
-.col-md-2{
+.col-md-3 {
   -webkit-column-break-inside: avoid;
   page-break-inside: avoid;
-  break-inside:avoid:
+  break-inside: avoid;
 }
 .footerspace {
   font-family: "Zapfino";

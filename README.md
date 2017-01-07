@@ -15,7 +15,7 @@ _This is a set of one or more html pages showing Charles Peden's portfolio, basi
 
 ## Known Bugs
 
-_the image columns break poorly when transitioning between small and larger browser sizes_
+_the image columns in 'images of non-programming related projects' break poorly when transitioning between small and larger browser widths_
 
 ## Support and contact details
 
@@ -23,7 +23,7 @@ _if bugs or issues are discovered, please contact ccbpeden@warpmail.net with a d
 
 ## Technologies Used
 
-_html, css, bootstrap_
+_html, css_
 
 ### License
 
